@@ -103,12 +103,8 @@ class Tests:
         response = requests.get(url, verify=False, params=rq_params, headers=rq_headers)
         response.raise_for_status()
 
-        # process_and_cleanup
-        json_response = response.json()
-        # Common_Vars.sbom_content = json_response
-        # logging.info(f"sbom_content: {Common_Vars.sbom_content}")
-
-        sbom_actual = json_response
+        # process
+        sbom_actual = response.json()
         path_to_sbom_releases_file = f"{Const.DIR_TEST_DATA}/{Const.FILE_SBOM_EXAMPLE}"
         sbom_expected = Tools.create_sbom_release_from_file_by_release_id(
             path_to_sbom_releases_file, CommonVars.sbom_release_id
@@ -117,3 +113,4 @@ class Tests:
         # check
         assert response.status_code == 200
         assert Tools.compare_sboms(sbom_actual, sbom_expected), "Actual sbom is not equal to expected sbom"
+        logging.info("Actual sbom is equal to expected sbom")
