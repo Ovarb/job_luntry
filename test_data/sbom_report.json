@@ -14938,5 +14938,1185 @@
     "sbomId": "36",
     "version": "1:1.2.13.dfsg-1",
     "package": "zlib1g"
-  }
+  },
+  {
+        "sbomId": "45",
+        "version": "2.2.53-2.el7",
+        "package": "acl"
+    },
+    {
+        "sbomId": "45",
+        "version": "3.0-3.el7.3",
+        "package": "audit-libs"
+    },
+    {
+        "sbomId": "45",
+        "version": "11-5.el7",
+        "package": "basesystem"
+    },
+    {
+        "sbomId": "45",
+        "version": "5.0.18-1.el7",
+        "package": "bash"
+    },
+    {
+        "sbomId": "45",
+        "version": "1.0.7-2.el7",
+        "package": "brotli"
+    },
+    {
+        "sbomId": "45",
+        "version": "1.0.8-1.el7",
+        "package": "bzip2-libs"
+    },
+    {
+        "sbomId": "45",
+        "version": "2021.2.50-3.el7.3",
+        "package": "ca-certificates"
+    },
+    {
+        "sbomId": "45",
+        "version": "2022-3.el7",
+        "package": "ca-certificates-ru"
+    },
+    {
+        "sbomId": "45",
+        "version": "1.7.2-3.1.el7",
+        "package": "chkconfig"
+    },
+    {
+        "sbomId": "45",
+        "version": "8.32-6.el7",
+        "package": "coreutils"
+    },
+    {
+        "sbomId": "45",
+        "version": "8.32-6.el7",
+        "package": "coreutils-common"
+    },
+    {
+        "sbomId": "45",
+        "version": "2.12-8.el7",
+        "package": "cpio"
+    },
+    {
+        "sbomId": "45",
+        "version": "20200619-4.git781bbd4.el7",
+        "package": "crypto-policies"
+    },
+    {
+        "sbomId": "45",
+        "version": "2.3.7-4.el7",
+        "package": "cryptsetup-libs"
+    },
+    {
+        "sbomId": "45",
+        "version": "7.81.0-5.el7.3",
+        "package": "curl"
+    },
+    {
+        "sbomId": "45",
+        "version": "2.1.27-5.el7",
+        "package": "cyrus-sasl-lib"
+    },
+    {
+        "sbomId": "45",
+        "version": "1:1.12.16-7.el7",
+        "package": "dbus"
+    },
+    {
+        "sbomId": "45",
+        "version": "22-1.el7",
+        "package": "dbus-broker"
+    },
+    {
+        "sbomId": "45",
+        "version": "1:1.12.16-7.el7",
+        "package": "dbus-common"
+    },
+    {
+        "sbomId": "45",
+        "version": "1:1.12.16-7.el7",
+        "package": "dbus-libs"
+    },
+    {
+        "sbomId": "45",
+        "version": "3.6.2-1.el7",
+        "package": "deltarpm"
+    },
+    {
+        "sbomId": "45",
+        "version": "7:1.02.171-3.el7",
+        "package": "device-mapper"
+    },
+    {
+        "sbomId": "45",
+        "version": "7:1.02.171-3.el7",
+        "package": "device-mapper-libs"
+    },
+    {
+        "sbomId": "45",
+        "version": "3.6-5.el7",
+        "package": "diffutils"
+    },
+    {
+        "sbomId": "45",
+        "version": "1.5.0",
+        "package": "distro"
+    },
+    {
+        "sbomId": "45",
+        "version": "4.2.23-3.el7",
+        "package": "dnf"
+    },
+    {
+        "sbomId": "45",
+        "version": "4.2.23-3.el7",
+        "package": "dnf-data"
+    },
+    {
+        "sbomId": "45",
+        "version": "4.2.23-3.el7",
+        "package": "dnf-yum"
+    },
+    {
+        "sbomId": "45",
+        "version": "056-4.el7",
+        "package": "dracut"
+    },
+    {
+        "sbomId": "45",
+        "version": "0.178-1.el7",
+        "package": "elfutils-debuginfod-client"
+    },
+    {
+        "sbomId": "45",
+        "version": "0.178-1.el7",
+        "package": "elfutils-default-yama-scope"
+    },
+    {
+        "sbomId": "45",
+        "version": "0.178-1.el7",
+        "package": "elfutils-libelf"
+    },
+    {
+        "sbomId": "45",
+        "version": "0.178-1.el7",
+        "package": "elfutils-libs"
+    },
+    {
+        "sbomId": "45",
+        "version": "1.1.6",
+        "package": "enum34"
+    },
+    {
+        "sbomId": "45",
+        "version": "2.4.1-3.el7",
+        "package": "expat"
+    },
+    {
+        "sbomId": "45",
+        "version": "5.39-1.el7",
+        "package": "file-libs"
+    },
+    {
+        "sbomId": "45",
+        "version": "3.8-5.el7",
+        "package": "filesystem"
+    },
+    {
+        "sbomId": "45",
+        "version": "1:4.7.0-1.el7",
+        "package": "findutils"
+    },
+    {
+        "sbomId": "45",
+        "version": "4.0.2-6.el7",
+        "package": "gawk"
+    },
+    {
+        "sbomId": "45",
+        "version": "8.0.4-3.el7",
+        "package": "gc"
+    },
+    {
+        "sbomId": "45",
+        "version": "1:1.18.1-2.el7",
+        "package": "gdbm"
+    },
+    {
+        "sbomId": "45",
+        "version": "1:1.18.1-2.el7",
+        "package": "gdbm-libs"
+    },
+    {
+        "sbomId": "45",
+        "version": "2.65.3-2.el7",
+        "package": "glib2"
+    },
+    {
+        "sbomId": "45",
+        "version": "2.28-6.el7",
+        "package": "glibc"
+    },
+    {
+        "sbomId": "45",
+        "version": "2.28-6.el7",
+        "package": "glibc-common"
+    },
+    {
+        "sbomId": "45",
+        "version": "2.28-6.el7",
+        "package": "glibc-langpack-zu"
+    },
+    {
+        "sbomId": "45",
+        "version": "1:6.1.1-3.el7",
+        "package": "gmp"
+    },
+    {
+        "sbomId": "45",
+        "version": "2.2.20-1.el7",
+        "package": "gnupg2"
+    },
+    {
+        "sbomId": "45",
+        "version": "3.6.12-1.el7",
+        "package": "gnutls"
+    },
+    {
+        "sbomId": "45",
+        "version": "1.12.0",
+        "package": "gpg"
+    },
+    {
+        "sbomId": "45",
+        "version": "1.12.0",
+        "package": "gpg"
+    },
+    {
+        "sbomId": "45",
+        "version": "f8ac18ee-591e99a0",
+        "package": "gpg-pubkey"
+    },
+    {
+        "sbomId": "45",
+        "version": "1.12.0-2.el7",
+        "package": "gpgme"
+    },
+    {
+        "sbomId": "45",
+        "version": "3.1-1.el7",
+        "package": "grep"
+    },
+    {
+        "sbomId": "45",
+        "version": "1.22.3-18.el7",
+        "package": "groff-base"
+    },
+    {
+        "sbomId": "45",
+        "version": "5:2.0.14-1.el7",
+        "package": "guile"
+    },
+    {
+        "sbomId": "45",
+        "version": "1.9-9.el7.3",
+        "package": "gzip"
+    },
+    {
+        "sbomId": "45",
+        "version": "6.7-1.el7",
+        "package": "info"
+    },
+    {
+        "sbomId": "45",
+        "version": "0.4",
+        "package": "iniparse"
+    },
+    {
+        "sbomId": "45",
+        "version": "10.00.6-1.el7.1",
+        "package": "initscripts"
+    },
+    {
+        "sbomId": "45",
+        "version": "4.15.0-2.el7",
+        "package": "iproute"
+    },
+    {
+        "sbomId": "45",
+        "version": "1.6.2-5.el7",
+        "package": "iptables-libs"
+    },
+    {
+        "sbomId": "45",
+        "version": "0.14-1.el7",
+        "package": "json-c"
+    },
+    {
+        "sbomId": "45",
+        "version": "1.6.0-1.el7",
+        "package": "json-glib"
+    },
+    {
+        "sbomId": "45",
+        "version": "2.3.0-1.el7",
+        "package": "kbd"
+    },
+    {
+        "sbomId": "45",
+        "version": "2.3.0-1.el7",
+        "package": "kbd-misc"
+    },
+    {
+        "sbomId": "45",
+        "version": "1.6-1.el7",
+        "package": "keyutils-libs"
+    },
+    {
+        "sbomId": "45",
+        "version": "25-14.el7",
+        "package": "kmod"
+    },
+    {
+        "sbomId": "45",
+        "version": "25-14.el7",
+        "package": "kmod-libs"
+    },
+    {
+        "sbomId": "45",
+        "version": "1.19.1-1.el7",
+        "package": "krb5-libs"
+    },
+    {
+        "sbomId": "45",
+        "version": "458-11.el7",
+        "package": "less"
+    },
+    {
+        "sbomId": "45",
+        "version": "2.2.53-2.el7",
+        "package": "libacl"
+    },
+    {
+        "sbomId": "45",
+        "version": "3.4.3-4.el7.3",
+        "package": "libarchive"
+    },
+    {
+        "sbomId": "45",
+        "version": "20171227-5.el7",
+        "package": "libargon2"
+    },
+    {
+        "sbomId": "45",
+        "version": "2.5.1-3.el7",
+        "package": "libassuan"
+    },
+    {
+        "sbomId": "45",
+        "version": "2.4.48-5.el7",
+        "package": "libattr"
+    },
+    {
+        "sbomId": "45",
+        "version": "2.37.3-1.el7",
+        "package": "libblkid"
+    },
+    {
+        "sbomId": "45",
+        "version": "1.0.7-2.el7",
+        "package": "libbrotli"
+    },
+    {
+        "sbomId": "45",
+        "version": "2.26-1.el7",
+        "package": "libcap"
+    },
+    {
+        "sbomId": "45",
+        "version": "0.7.9-4.el7",
+        "package": "libcap-ng"
+    },
+    {
+        "sbomId": "45",
+        "version": "0.7.0-1.el7",
+        "package": "libcbor"
+    },
+    {
+        "sbomId": "45",
+        "version": "1.44.6-4.el7.3",
+        "package": "libcom_err"
+    },
+    {
+        "sbomId": "45",
+        "version": "0.1.15",
+        "package": "libcomps"
+    },
+    {
+        "sbomId": "45",
+        "version": "0.1.15",
+        "package": "libcomps"
+    },
+    {
+        "sbomId": "45",
+        "version": "0.1.15-6.el7",
+        "package": "libcomps"
+    },
+    {
+        "sbomId": "45",
+        "version": "7.81.0-5.el7.3",
+        "package": "libcurl"
+    },
+    {
+        "sbomId": "45",
+        "version": "5.3.28-1.el7",
+        "package": "libdb"
+    },
+    {
+        "sbomId": "45",
+        "version": "5.3.28-1.el7",
+        "package": "libdb-utils"
+    },
+    {
+        "sbomId": "45",
+        "version": "0.48.0-4.el7",
+        "package": "libdnf"
+    },
+    {
+        "sbomId": "45",
+        "version": "0.3.8-4.el7",
+        "package": "libeconf"
+    },
+    {
+        "sbomId": "45",
+        "version": "2.1.8-2.el7",
+        "package": "libevent"
+    },
+    {
+        "sbomId": "45",
+        "version": "2.37.3-1.el7",
+        "package": "libfdisk"
+    },
+    {
+        "sbomId": "45",
+        "version": "3.1-21.el7",
+        "package": "libffi"
+    },
+    {
+        "sbomId": "45",
+        "version": "1.5.0-1.el7",
+        "package": "libfido2"
+    },
+    {
+        "sbomId": "45",
+        "version": "8.3.1-6.el7",
+        "package": "libgcc"
+    },
+    {
+        "sbomId": "45",
+        "version": "1.8.6-3.el7",
+        "package": "libgcrypt"
+    },
+    {
+        "sbomId": "45",
+        "version": "1.37-1.el7",
+        "package": "libgpg-error"
+    },
+    {
+        "sbomId": "45",
+        "version": "2.2.0-1.el7",
+        "package": "libidn2"
+    },
+    {
+        "sbomId": "45",
+        "version": "1.2.0-1.el7",
+        "package": "libkcapi"
+    },
+    {
+        "sbomId": "45",
+        "version": "1.2.0-1.el7",
+        "package": "libkcapi-hmaccalc"
+    },
+    {
+        "sbomId": "45",
+        "version": "1.3.5-7.el7.3",
+        "package": "libksba"
+    },
+    {
+        "sbomId": "45",
+        "version": "1.0.4-2.el7",
+        "package": "libmnl"
+    },
+    {
+        "sbomId": "45",
+        "version": "2.12.0-1.el7",
+        "package": "libmodulemd"
+    },
+    {
+        "sbomId": "45",
+        "version": "2.37.3-1.el7",
+        "package": "libmount"
+    },
+    {
+        "sbomId": "45",
+        "version": "1.46.0-1.el7.3",
+        "package": "libnghttp2"
+    },
+    {
+        "sbomId": "45",
+        "version": "1.2.0-5.20180605git4a062cf.el7",
+        "package": "libnsl2"
+    },
+    {
+        "sbomId": "45",
+        "version": "14:1.9.1-2.el7",
+        "package": "libpcap"
+    },
+    {
+        "sbomId": "45",
+        "version": "0.21.1-1.el7",
+        "package": "libpsl"
+    },
+    {
+        "sbomId": "45",
+        "version": "1.4.3-1.el7",
+        "package": "libpwquality"
+    },
+    {
+        "sbomId": "45",
+        "version": "1.12.0-7.el7",
+        "package": "librepo"
+    },
+    {
+        "sbomId": "45",
+        "version": "2.14.0-2.el7",
+        "package": "libreport-filesystem"
+    },
+    {
+        "sbomId": "45",
+        "version": "0.0.3-3.el7",
+        "package": "librhsm"
+    },
+    {
+        "sbomId": "45",
+        "version": "2.5.0-3.el7",
+        "package": "libseccomp"
+    },
+    {
+        "sbomId": "45",
+        "version": "2.9-2.4.el7.3",
+        "package": "libselinux"
+    },
+    {
+        "sbomId": "45",
+        "version": "2.9-2.el7",
+        "package": "libsemanage"
+    },
+    {
+        "sbomId": "45",
+        "version": "2.9-1.el7",
+        "package": "libsepol"
+    },
+    {
+        "sbomId": "45",
+        "version": "2.37.3-1.el7",
+        "package": "libsmartcols"
+    },
+    {
+        "sbomId": "45",
+        "version": "0.7.17-1.el7",
+        "package": "libsolv"
+    },
+    {
+        "sbomId": "45",
+        "version": "0.9.6-1.el7",
+        "package": "libssh"
+    },
+    {
+        "sbomId": "45",
+        "version": "0.9.6-1.el7",
+        "package": "libssh-config"
+    },
+    {
+        "sbomId": "45",
+        "version": "8.3.1-6.el7",
+        "package": "libstdc++"
+    },
+    {
+        "sbomId": "45",
+        "version": "4.16.0-2.el7",
+        "package": "libtasn1"
+    },
+    {
+        "sbomId": "45",
+        "version": "1.2.6-0.el7",
+        "package": "libtirpc"
+    },
+    {
+        "sbomId": "45",
+        "version": "2.4.6-28.el7",
+        "package": "libtool-ltdl"
+    },
+    {
+        "sbomId": "45",
+        "version": "0.9.10-1.el7",
+        "package": "libunistring"
+    },
+    {
+        "sbomId": "45",
+        "version": "1.0.24-4.el7",
+        "package": "libusbx"
+    },
+    {
+        "sbomId": "45",
+        "version": "1.2.1-1.el7",
+        "package": "libutempter"
+    },
+    {
+        "sbomId": "45",
+        "version": "2.37.3-1.el7",
+        "package": "libuuid"
+    },
+    {
+        "sbomId": "45",
+        "version": "0.3.0-5.el7",
+        "package": "libverto"
+    },
+    {
+        "sbomId": "45",
+        "version": "4.4.17-1.el7",
+        "package": "libxcrypt"
+    },
+    {
+        "sbomId": "45",
+        "version": "2.9.8-12.el7.3",
+        "package": "libxml2"
+    },
+    {
+        "sbomId": "45",
+        "version": "0.2.2-2.el7",
+        "package": "libyaml"
+    },
+    {
+        "sbomId": "45",
+        "version": "1.4.5-2.el7",
+        "package": "libzstd"
+    },
+    {
+        "sbomId": "45",
+        "version": "5.3.4-13.el7",
+        "package": "lua-libs"
+    },
+    {
+        "sbomId": "45",
+        "version": "1.9.1-3.el7",
+        "package": "lz4-libs"
+    },
+    {
+        "sbomId": "45",
+        "version": "1:4.2.1-1.el7",
+        "package": "make"
+    },
+    {
+        "sbomId": "45",
+        "version": "6.2-3.20200222.el7",
+        "package": "ncurses"
+    },
+    {
+        "sbomId": "45",
+        "version": "6.2-3.20200222.el7",
+        "package": "ncurses-base"
+    },
+    {
+        "sbomId": "45",
+        "version": "6.2-3.20200222.el7",
+        "package": "ncurses-libs"
+    },
+    {
+        "sbomId": "45",
+        "version": "3.5.1-2.el7",
+        "package": "nettle"
+    },
+    {
+        "sbomId": "45",
+        "version": "1.6-1.el7",
+        "package": "npth"
+    },
+    {
+        "sbomId": "45",
+        "version": "2.4.55-6.el7.3",
+        "package": "openldap"
+    },
+    {
+        "sbomId": "45",
+        "version": "1:1.1.1q-1.el7.3",
+        "package": "openssl-libs"
+    },
+    {
+        "sbomId": "45",
+        "version": "0.23.22-1.el7.3",
+        "package": "p11-kit"
+    },
+    {
+        "sbomId": "45",
+        "version": "0.23.22-1.el7.3",
+        "package": "p11-kit-trust"
+    },
+    {
+        "sbomId": "45",
+        "version": "1.4.0-5.el7",
+        "package": "pam"
+    },
+    {
+        "sbomId": "45",
+        "version": "8.44-1.el7",
+        "package": "pcre"
+    },
+    {
+        "sbomId": "45",
+        "version": "10.36-4.el7.3",
+        "package": "pcre2"
+    },
+    {
+        "sbomId": "45",
+        "version": "10.36-4.el7.3",
+        "package": "pcre2-syntax"
+    },
+    {
+        "sbomId": "45",
+        "version": "0.9.4-14.20200325gite31c81f.el7",
+        "package": "plymouth"
+    },
+    {
+        "sbomId": "45",
+        "version": "0.9.4-14.20200325gite31c81f.el7",
+        "package": "plymouth-core-libs"
+    },
+    {
+        "sbomId": "45",
+        "version": "0.9.4-14.20200325gite31c81f.el7",
+        "package": "plymouth-scripts"
+    },
+    {
+        "sbomId": "45",
+        "version": "1.16-14.el7",
+        "package": "popt"
+    },
+    {
+        "sbomId": "45",
+        "version": "3.3.16-1.el7",
+        "package": "procps-ng"
+    },
+    {
+        "sbomId": "45",
+        "version": "20190417-1.el7",
+        "package": "publicsuffix-list-dafsa"
+    },
+    {
+        "sbomId": "45",
+        "version": "7.43.0.2",
+        "package": "pycurl"
+    },
+    {
+        "sbomId": "45",
+        "version": "0.3",
+        "package": "pygpgme"
+    },
+    {
+        "sbomId": "45",
+        "version": "0.3-11.el7",
+        "package": "pygpgme"
+    },
+    {
+        "sbomId": "45",
+        "version": "0.5.3",
+        "package": "pyliblzma"
+    },
+    {
+        "sbomId": "45",
+        "version": "0.5.3-13.el7",
+        "package": "pyliblzma"
+    },
+    {
+        "sbomId": "45",
+        "version": "2.7.18",
+        "package": "python"
+    },
+    {
+        "sbomId": "45",
+        "version": "3.8.2",
+        "package": "python"
+    },
+    {
+        "sbomId": "45",
+        "version": "2.8.1",
+        "package": "python-dateutil"
+    },
+    {
+        "sbomId": "45",
+        "version": "18.0-2.el7",
+        "package": "python-pip-wheel"
+    },
+    {
+        "sbomId": "45",
+        "version": "41.2.1-2.el7",
+        "package": "python-setuptools-wheel"
+    },
+    {
+        "sbomId": "45",
+        "version": "2.7.18-4.el7",
+        "package": "python2"
+    },
+    {
+        "sbomId": "45",
+        "version": "1:2.8.1-7.el7",
+        "package": "python2-dateutil"
+    },
+    {
+        "sbomId": "45",
+        "version": "1.5.0-1.el7",
+        "package": "python2-distro"
+    },
+    {
+        "sbomId": "45",
+        "version": "4.2.23-3.el7",
+        "package": "python2-dnf"
+    },
+    {
+        "sbomId": "45",
+        "version": "4.0.18-3.el7",
+        "package": "python2-dnf-plugin-migrate"
+    },
+    {
+        "sbomId": "45",
+        "version": "4.0.18-3.el7",
+        "package": "python2-dnf-plugins-core"
+    },
+    {
+        "sbomId": "45",
+        "version": "1.1.6-1.el7",
+        "package": "python2-enum34"
+    },
+    {
+        "sbomId": "45",
+        "version": "1.12.0-2.el7",
+        "package": "python2-gpg"
+    },
+    {
+        "sbomId": "45",
+        "version": "0.48.0-4.el7",
+        "package": "python2-hawkey"
+    },
+    {
+        "sbomId": "45",
+        "version": "0.4-29.el7",
+        "package": "python2-iniparse"
+    },
+    {
+        "sbomId": "45",
+        "version": "0.1.15-6.el7",
+        "package": "python2-libcomps"
+    },
+    {
+        "sbomId": "45",
+        "version": "0.48.0-4.el7",
+        "package": "python2-libdnf"
+    },
+    {
+        "sbomId": "45",
+        "version": "2.7.18-4.el7",
+        "package": "python2-libs"
+    },
+    {
+        "sbomId": "45",
+        "version": "7.43.0.2-2.el7",
+        "package": "python2-pycurl"
+    },
+    {
+        "sbomId": "45",
+        "version": "0.6.1-3.el7",
+        "package": "python2-pyxattr"
+    },
+    {
+        "sbomId": "45",
+        "version": "4.13.90-11.el7",
+        "package": "python2-rpm"
+    },
+    {
+        "sbomId": "45",
+        "version": "41.2.1-2.el7",
+        "package": "python2-setuptools"
+    },
+    {
+        "sbomId": "45",
+        "version": "1.15.0-3.el7",
+        "package": "python2-six"
+    },
+    {
+        "sbomId": "45",
+        "version": "1.9.6-4.el7",
+        "package": "python2-unbound"
+    },
+    {
+        "sbomId": "45",
+        "version": "2.7.18-4.el7",
+        "package": "python2-unversioned-command"
+    },
+    {
+        "sbomId": "45",
+        "version": "4.0.0-1.el7",
+        "package": "python2-urlgrabber"
+    },
+    {
+        "sbomId": "45",
+        "version": "3.8.2-13.el7",
+        "package": "python3"
+    },
+    {
+        "sbomId": "45",
+        "version": "1.2.8-3.el7",
+        "package": "python3-dbus"
+    },
+    {
+        "sbomId": "45",
+        "version": "4.2.23-3.el7",
+        "package": "python3-dnf"
+    },
+    {
+        "sbomId": "45",
+        "version": "1.12.0-2.el7",
+        "package": "python3-gpg"
+    },
+    {
+        "sbomId": "45",
+        "version": "0.48.0-4.el7",
+        "package": "python3-hawkey"
+    },
+    {
+        "sbomId": "45",
+        "version": "0.1.15-6.el7",
+        "package": "python3-libcomps"
+    },
+    {
+        "sbomId": "45",
+        "version": "0.48.0-4.el7",
+        "package": "python3-libdnf"
+    },
+    {
+        "sbomId": "45",
+        "version": "3.8.2-13.el7",
+        "package": "python3-libs"
+    },
+    {
+        "sbomId": "45",
+        "version": "4.13.90-11.el7",
+        "package": "python3-rpm"
+    },
+    {
+        "sbomId": "45",
+        "version": "1.9.6-4.el7",
+        "package": "python3-unbound"
+    },
+    {
+        "sbomId": "45",
+        "version": "0.6.1",
+        "package": "pyxattr"
+    },
+    {
+        "sbomId": "45",
+        "version": "3.4.4-4.el7",
+        "package": "qrencode-libs"
+    },
+    {
+        "sbomId": "45",
+        "version": "8.0-1.el7",
+        "package": "readline"
+    },
+    {
+        "sbomId": "45",
+        "version": "7.3.2-40.el7",
+        "package": "redos-release"
+    },
+    {
+        "sbomId": "45",
+        "version": "8.1-13.el7",
+        "package": "rootfiles"
+    },
+    {
+        "sbomId": "45",
+        "version": "4.13.90",
+        "package": "rpm"
+    },
+    {
+        "sbomId": "45",
+        "version": "4.13.90",
+        "package": "rpm"
+    },
+    {
+        "sbomId": "45",
+        "version": "4.13.90-11.el7",
+        "package": "rpm"
+    },
+    {
+        "sbomId": "45",
+        "version": "4.13.90-11.el7",
+        "package": "rpm-build-libs"
+    },
+    {
+        "sbomId": "45",
+        "version": "4.13.90-11.el7",
+        "package": "rpm-libs"
+    },
+    {
+        "sbomId": "45",
+        "version": "4.13.90-11.el7",
+        "package": "rpm-plugin-selinux"
+    },
+    {
+        "sbomId": "45",
+        "version": "4.13.90-11.el7",
+        "package": "rpm-plugin-systemd-inhibit"
+    },
+    {
+        "sbomId": "45",
+        "version": "4.5-1.el7",
+        "package": "sed"
+    },
+    {
+        "sbomId": "45",
+        "version": "2.12.2-7.el7",
+        "package": "setup"
+    },
+    {
+        "sbomId": "45",
+        "version": "41.2.1",
+        "package": "setuptools"
+    },
+    {
+        "sbomId": "45",
+        "version": "2:4.6-10.el7",
+        "package": "shadow-utils"
+    },
+    {
+        "sbomId": "45",
+        "version": "2.0-3.el7",
+        "package": "shared-mime-info"
+    },
+    {
+        "sbomId": "45",
+        "version": "1.15.0",
+        "package": "six"
+    },
+    {
+        "sbomId": "45",
+        "version": "3.35.3-2.el7",
+        "package": "sqlite"
+    },
+    {
+        "sbomId": "45",
+        "version": "3.35.3-2.el7",
+        "package": "sqlite-libs"
+    },
+    {
+        "sbomId": "45",
+        "version": "246.10-15.el7",
+        "package": "systemd"
+    },
+    {
+        "sbomId": "45",
+        "version": "246.10-15.el7",
+        "package": "systemd-libs"
+    },
+    {
+        "sbomId": "45",
+        "version": "246.10-15.el7",
+        "package": "systemd-pam"
+    },
+    {
+        "sbomId": "45",
+        "version": "246.10-15.el7",
+        "package": "systemd-rpm-macros"
+    },
+    {
+        "sbomId": "45",
+        "version": "246.10-15.el7",
+        "package": "systemd-udev"
+    },
+    {
+        "sbomId": "45",
+        "version": "2020d-1.el7",
+        "package": "tzdata"
+    },
+    {
+        "sbomId": "45",
+        "version": "1.9.6-4.el7",
+        "package": "unbound-libs"
+    },
+    {
+        "sbomId": "45",
+        "version": "4.0.0",
+        "package": "urlgrabber"
+    },
+    {
+        "sbomId": "45",
+        "version": "2.37.3-1.el7",
+        "package": "util-linux"
+    },
+    {
+        "sbomId": "45",
+        "version": "2.37.3-1.el7",
+        "package": "util-linux-core"
+    },
+    {
+        "sbomId": "45",
+        "version": "2:9.0.828-1.el7.3",
+        "package": "vim-data"
+    },
+    {
+        "sbomId": "45",
+        "version": "2:9.0.828-1.el7.3",
+        "package": "vim-minimal"
+    },
+    {
+        "sbomId": "45",
+        "version": "0.1.2",
+        "package": "wsgiref"
+    },
+    {
+        "sbomId": "45",
+        "version": "5.2.2-3.el7",
+        "package": "xz"
+    },
+    {
+        "sbomId": "45",
+        "version": "5.2.2-3.el7",
+        "package": "xz-libs"
+    },
+    {
+        "sbomId": "45",
+        "version": "3.4.3-164.el7",
+        "package": "yum"
+    },
+    {
+        "sbomId": "45",
+        "version": "1.1.4",
+        "package": "yum-metadata-parser"
+    },
+    {
+        "sbomId": "45",
+        "version": "1.1.4-12.el7",
+        "package": "yum-metadata-parser"
+    },
+    {
+        "sbomId": "45",
+        "version": "1.1.5-3.el7",
+        "package": "zchunk-libs"
+    },
+    {
+        "sbomId": "45",
+        "version": "1.2.11-15.el7",
+        "package": "zlib"
+    }
 ]
